@@ -1,4 +1,4 @@
-uv# 📈 Stocks MCP
+## 📈 Stocks MCP
 
 **Stocks MCP** is a Python-based MCP (Modular Command Platform) server designed to provide various functionalities related to stock data and operations. The project is currently under active development.
 
